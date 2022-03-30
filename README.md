@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @anony7911
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-anony7911/anony7911 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Mahasiswa sistem informasi universitas sembilanbelas november kolaka angkatan 2017.
+- Sedang belajar
+- masih cupu
+- laravel, kotlin, javascript, dart, flutter, 
+- semua ingin dikuasai.
